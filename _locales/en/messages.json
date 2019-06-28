@@ -1,0 +1,11 @@
+{
+	"extensionName": {
+		"message": "Service Worker Control - Push Notification History"
+	},
+	"extensionDescription": {
+		"message": "Add a toolbar button to show push notification history for Service Worker Control."
+	},
+	"notificationHistory": {
+		"message": "Push Notification History"
+	}
+}

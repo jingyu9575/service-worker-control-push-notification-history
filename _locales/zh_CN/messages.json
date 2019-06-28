@@ -1,0 +1,11 @@
+{
+	"extensionName": {
+		"message": "Service Worker 控制 - 推送通知历史记录"
+	},
+	"extensionDescription": {
+		"message": "添加工具栏按钮打开“Service Worker 控制”的推送通知历史记录。"
+	},
+	"notificationHistory": {
+		"message": "推送通知历史记录"
+	}
+}
